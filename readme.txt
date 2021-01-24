@@ -1,3 +1,2 @@
-2020 Yaz Okulu Veri Yapıları Final Ödevi
-Hocam ödevimin çıktısında hata alıyorum düzeltmeye çalıştım ama yapamadım.
+2
 Vectoru sadece text dosyasını okumada kullandım.
